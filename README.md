@@ -1,6 +1,6 @@
 # Gemma Quantitative Reasoning Assistant
 
-📐 An interactive web application designed to solve complex mathematical and reasoning problems effortlessly using the **Gemma** AI model.
+An interactive web application designed to solve complex mathematical and reasoning problems effortlessly using the **Gemma** AI model.
 
 ## Overview
 
